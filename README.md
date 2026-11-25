@@ -64,3 +64,33 @@ CrmKin 是开发者投入大量个人时间、精力与技术积累持续构建�
 
 **最后声明：** 本文旨在明确项目使用边界和基本责任原则，不构成针对任何具体案件的法律意见，也不能替代正式的软件许可协议。若本声明与适用法律的强制性规定存在冲突，以适用法律规定为准。
 
+---
+
+## 📜 Copyright & Licensing
+
+**CrmKin is a proprietary project. All Rights Reserved.**
+
+CrmKin is independently developed and maintained.
+
+This repository is publicly accessible for viewing on GitHub. Public visibility does not grant permission to copy, modify, redistribute, repackage, rebrand, or commercially exploit CrmKin's original materials.
+
+Without prior written authorization from the copyright holder, unauthorized reproduction, modification, redistribution, and commercial exploitation of CrmKin's original materials are prohibited to the extent permitted by applicable law.
+
+### Third-Party Components
+
+Certain third-party components and resources may be incorporated into or used by this project.
+
+Such components remain subject to their respective original licenses. CrmKin's proprietary licensing terms do not override or restrict any rights granted by those licenses.
+
+See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) for details.
+
+### Respect Original Work
+
+CrmKin is an independently developed project built through substantial personal effort, technical research, engineering, testing, and continuous improvement.
+
+Please respect the developer's work, original contributions, and intellectual property.
+
+For authorized redistribution, derivative development, or commercial collaboration, please obtain written permission in advance.
+
+See [LICENSE](./LICENSE) for the full licensing terms.
+
